@@ -63,7 +63,7 @@ Aprenda como participar en la comunidad de Kubernetes visitando la [página de c
 Puede ponerse en contacto con los mantenedores de este proyecto en:
 
 - [Slack](https://kubernetes.slack.com/messages/sig-docs)
-- [Mailing List](https://groups.google.com/forum/#!forum/kubernetes-sig-docs)
+- [Mailing List](https://groups.google.com/g/kubernetes-sig-docs)
 
 ### Código de conducta
 
